@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\201610645_RENTAUTOS.vbprojAssemblyReference.cache
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\_201610645_RENTAUTOS.Form1.resources
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\_201610645_RENTAUTOS.Resources.resources
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\201610645_RENTAUTOS.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\201610645_RENTAUTOS.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\bin\Debug\201610645_RENTAUTOS.exe.config
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\bin\Debug\201610645_RENTAUTOS.exe
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\bin\Debug\201610645_RENTAUTOS.pdb
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\bin\Debug\201610645_RENTAUTOS.xml
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\201610645_RENTAUTOS.exe
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\201610645_RENTAUTOS.xml
+C:\Users\Dell\source\repos\201610645_RENTAUTOS\obj\Debug\201610645_RENTAUTOS.pdb
